@@ -9,3 +9,6 @@ public class SpringSecurityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+/*
+verificar como se hace para que queden los comentarios en los codigos de alla 
+*/
